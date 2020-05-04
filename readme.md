@@ -1,3 +1,3 @@
-OPEN SOURCE WEB BROWSER SKyBOX
+OPEN SOURCE WEB BROWSER SKYBOX
 Skybox is a basic web browser.
 Skybox minimal & fast.
